@@ -379,3 +379,7 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Labelbox](https://labelbox.com/) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
 
 ## Proprietary Platforms
+* Bighead (AirbnB)
+* FBLearner (Facebook)
+* [Michelangelo (Uber)](https://eng.uber.com/michelangelo-machine-learning-platform/)
+* TFX (Google)
