@@ -132,6 +132,7 @@ This repository contains a curated list of awesome open source libraries that wi
 
 ## Model Deployment and Orchestration Frameworks
 * [Cortex](https://github.com/cortexlabs/cortex) ![]() - Cortex is an open source platform for deploying machine learning models—trained with nearly any framework—as production web services.
+* [H2O](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform For Smarter Applications.
 * [Seldon](https://github.com/SeldonIO/seldon-core) ![](https://img.shields.io/github/stars/SeldonIO/seldon-core.svg?style=social) - Open source platform for deploying and monitoring machine learning models in kubernetes - [(Video)](https://www.youtube.com/watch?v=pDlapGtecbY)
 * [KFServing](https://github.com/kubeflow/kfserving) ![](https://img.shields.io/github/stars/kubeflow/kfserving.svg?style=social) - Serverless framework to deploy and monitor machine learning models in Kubernetes - [(Video)](https://www.youtube.com/watch?v=hGIvlFADMhU)
 * [Redis-AI](https://github.com/RedisAI/RedisAI) ![](https://img.shields.io/github/stars/RedisAI/RedisAI.svg?style=social) - A Redis module for serving tensors and executing deep learning models. Expect changes in the API and internals.
@@ -376,6 +377,3 @@ www.youtube.com/watch?v=zbjub8BQPyE)
 * [Talend Studio](https://www.talend.com/)
 * [Prodigy](https://prodi.gy/) - Active learning-based data annotation. Allows to train a model and pick most 'uncertain' samples for labeling from an unlabeled pool.
 * [Labelbox](https://labelbox.com/) - Image labelling service with support for semantic segmentation (brush & superpixels), bounding boxes and nested classifications.
-
-## Open Source Platforms
-* [H2O](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform For Smarter Applications.
